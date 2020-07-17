@@ -23,9 +23,15 @@
 clear
 echo "${h}          ~ ~  ┌${p1}∩${h}┐${k}(${m}◣${p1}_${m}◢${k})${h}┌${p1}∩${h}┐  ~ ~  ${p}v1.0"
 echo "    ${s}${z}${t}"
-echo "${pu} ╦  ╦╦╦═╗╦ ╦╔═╗  ╦ ╦╦ ╦╔═╗╔═╗╔╦╗╔═╗╔═╗╔═╗  ${c}Author${h}:${p}Fahmiapz+Err0r"
-echo "${pu} ╚╗╔╝║╠╦╝║ ║╚═╗  ║║║╠═╣╠═╣╚═╗ ║ ╠═╣╠═╝╠═╝  ${m}Youtube${h}:${p}Apmz Channel"
-echo "${pu}  ╚╝ ╩╩╚═╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩╚═╝ ╩ ╩ ╩╩  ╩ "
+echo "${pu} 
+╋╋┏┓┏┓
+╋╋┃┃┃┃
+╋╋┃┣┫┗━┳━━┳━┓╋┏┓┏┳━━┳┓┏┓
+┏┓┃┣┫┏┓┃┏┓┃┏┓┓┃┗┛┃┏┓┃┃┃┃
+┃┗┛┃┃┗┛┃┗┛┃┃┃┃┗┓┏┫┏┓┃┗┛┃
+┗━━┻┻━━┻━━┻┛┗┛╋┗┛┗┛┗┻━━┛  ${c}Author${h}:${p}Fahmiapz+Err0r"
+echo "${pu} ${m}Youtube${h}:${p}Jibon entertainment "
+echo "${pu} 
 echo "    ${o}${z}${n}"
 echo " ${p}       Pergunakanlah Dengan Bijak"
 echo
@@ -120,8 +126,8 @@ cd virus
 sh virtex5.sh
 echo
 echo "\033[39;1m[\033[32;1m√\033[39;1m]\033[34;1mSelesai Membuat"
-echo "\033[39;1m[\033[32;1m√\033[39;1m]\033[34;1mSilahkan Copy"
-echo "\033[39;1m[\033[32;1m√\033[39;1m]\033[34;1mLalu Share Di WhatsApp"
+echo "\033[39;1m[\033[32;1m√\033[39;1m]\033[34;1mmd_jibon Copy"
+echo "\033[39;1m[\033[32;1m√\033[39;1m]\033[34;Jibon khan WhatsApp"
 echo "${p}"
 read -p "[+]Ulang Lagi y/t : " k
 if [ $k = y ] || [ $k = Y ];then
