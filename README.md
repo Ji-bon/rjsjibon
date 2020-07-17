@@ -7,7 +7,7 @@
 ┗━━┻┻━━┻━━┻┛┗┛╋┗┛┗┛┗┻━━┛
 
 ## Commands
-git clone https://github.com/Ji-bon-rjsjibon <br>
+git clone https://github.com/Ji-bonrjs/jibon <br>
 cd rjsjibon <br>
 sh rjsjibon <br>
 
